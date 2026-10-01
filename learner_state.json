@@ -1,0 +1,588 @@
+{
+  "last_updated": "2026-09-21",
+  "mastery_progression_rule": "All words start at Level 1. Promoted to Level 2 on 1 successful recall. Promoted to Level 3 on 2-3 consecutive correct recalls in spaced practice.",
+  "toeic_600_bank_summary": {
+    "total_words": 600,
+    "level_1_untested": 583,
+    "level_2_verified": 17,
+    "level_3_mastered": 0,
+    "file_json": "vocab_bank/toeic_600_words.json",
+    "file_md": "vocab_bank/toeic_600_words.md"
+  },
+  "active_verified_words_level_2": [
+    {
+      "word": "adverse weather conditions",
+      "verified_on": "2026-09-16",
+      "encounters": 2
+    },
+    {
+      "word": "considerable",
+      "verified_on": "2026-09-16",
+      "encounters": 2
+    },
+    {
+      "word": "sensitive",
+      "verified_on": "2026-09-16",
+      "encounters": 2
+    },
+    {
+      "word": "archives",
+      "verified_on": "2026-09-16",
+      "encounters": 2
+    },
+    {
+      "word": "reimburse",
+      "verified_on": "2026-09-16",
+      "encounters": 2
+    },
+    {
+      "word": "expedite",
+      "verified_on": "2026-09-16",
+      "encounters": 2
+    },
+    {
+      "word": "accommodate",
+      "verified_on": "2026-09-16",
+      "encounters": 3
+    },
+    {
+      "word": "tentative",
+      "verified_on": "2026-09-16",
+      "encounters": 3
+    },
+    {
+      "word": "abide by",
+      "verified_on": "2026-09-16",
+      "encounters": 1
+    },
+    {
+      "word": "flight schedule",
+      "verified_on": "2026-09-17",
+      "encounters": 3
+    },
+    {
+      "word": "keynote speaker",
+      "verified_on": "2026-09-17",
+      "encounters": 3
+    },
+    {
+      "word": "seminar",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "auditorium",
+      "verified_on": "2026-09-17",
+      "encounters": 4
+    },
+    {
+      "word": "approve",
+      "verified_on": "2026-09-17",
+      "encounters": 4
+    },
+    {
+      "word": "rectify",
+      "verified_on": "2026-09-17",
+      "encounters": 3
+    },
+    {
+      "word": "budget",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "defect",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "director",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "contractor",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "kindly",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "presentation",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "committee",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "attendee",
+      "verified_on": "2026-09-17",
+      "encounters": 4
+    },
+    {
+      "word": "proposed",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "funding",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "constraints",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "remain seated",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "announce",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "commercial",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "international",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "raise",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "management board",
+      "verified_on": "2026-09-17",
+      "encounters": 2
+    },
+    {
+      "word": "attract",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "campaign",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "overseas",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "hundreds of",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "commend",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "rise",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "aim to",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "foreign investor",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "shipping rates",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "trade fair",
+      "verified_on": "2026-09-21",
+      "encounters": 3
+    },
+    {
+      "word": "promote",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "capital",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "apologize for",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "inconvenience",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "opportunity",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "in order to",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "expand",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "representative",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "passenger",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "board",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "itinerary",
+      "verified_on": "2026-09-21",
+      "encounters": 4
+    },
+    {
+      "word": "provision",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "assurance",
+      "verified_on": "2026-09-21",
+      "encounters": 1
+    },
+    {
+      "word": "obligate",
+      "verified_on": "2026-09-21",
+      "encounters": 1
+    },
+    {
+      "word": "convince",
+      "verified_on": "2026-09-21",
+      "encounters": 1
+    },
+    {
+      "word": "productive",
+      "verified_on": "2026-09-21",
+      "encounters": 1
+    },
+    {
+      "word": "resolve",
+      "verified_on": "2026-09-21",
+      "encounters": 1
+    },
+    {
+      "word": "competition",
+      "verified_on": "2026-09-21",
+      "encounters": 1
+    },
+    {
+      "word": "determine",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "mediator",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "dispute",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "bid",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "thorough",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "persuade",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "innovative",
+      "verified_on": "2026-09-21",
+      "encounters": 2
+    },
+    {
+      "word": "against (verify A against B)",
+      "verified_on": "2026-09-23",
+      "encounters": 2
+    },
+    {
+      "word": "conduct an inspection",
+      "verified_on": "2026-09-23",
+      "encounters": 2
+    },
+    {
+      "word": "prospective client",
+      "verified_on": "2026-09-23",
+      "encounters": 2
+    },
+    {
+      "word": "further details",
+      "verified_on": "2026-09-23",
+      "encounters": 2
+    },
+    {
+      "word": "accounting department",
+      "verified_on": "2026-09-23",
+      "encounters": 2
+    },
+    {
+      "word": "provision",
+      "verified_on": "2026-09-23",
+      "encounters": 3
+    },
+    {
+      "word": "cover (in warranty)",
+      "verified_on": "2026-09-24",
+      "encounters": 1
+    },
+    {
+      "word": "demonstrate (Lesson 04)",
+      "verified_on": "2026-09-24",
+      "encounters": 1
+    },
+    {
+      "word": "reputation (solid reputation)",
+      "verified_on": "2026-09-25",
+      "encounters": 2
+    },
+    {
+      "word": "expiration (expiration date)",
+      "verified_on": "2026-09-25",
+      "encounters": 2
+    },
+    {
+      "word": "credentials (possess credentials)",
+      "verified_on": "2026-09-25",
+      "encounters": 1
+    },
+    {
+      "word": "strategy (promotional strategy)",
+      "verified_on": "2026-09-25",
+      "encounters": 1
+    },
+    {
+      "word": "satisfy (satisfy requirements)",
+      "verified_on": "2026-09-25",
+      "encounters": 1
+    },
+    {
+      "word": "examine (examine records)",
+      "verified_on": "2026-09-25",
+      "encounters": 1
+    }
+  ],
+  "weak_vocab_queue": [
+    {
+      "word": "TRAP-11: specify vs specific",
+      "issue": "BẪY TRAP-11: outline [specific] requirements. Người học đã chinh phục ở lượt gần nhất! Đang theo dõi củng cố.",
+      "level": 2,
+      "encounters": 5,
+      "status": "mastered"
+    },
+    {
+      "word": "expressed great interest in",
+      "issue": "Bày tỏ sự quan tâm / hứng thú đối với... (Người học dịch nhầm thành 'lòng biết ơn' - nhầm interest với gratitude!). Cần bẻ gãy hiểu lầm này!",
+      "level": 1,
+      "encounters": 7,
+      "status": "critical_trap"
+    },
+    {
+      "word": "procurement",
+      "issue": "Thu mua, mua sắm vật tư (director of procurement = giám đốc thu mua). Người học chọn nhầm departure 2 lần liên tiếp.",
+      "level": 1,
+      "encounters": 3,
+      "status": "critical_trap"
+    },
+    {
+      "word": "profitable",
+      "issue": "Có lãi, sinh lời (remained profitable). Người học dịch nhầm thành 'hợp lý' (nhầm với reasonable).",
+      "level": 1,
+      "encounters": 2,
+      "status": "learning"
+    },
+    {
+      "word": "auditor",
+      "issue": "Kiểm toán viên (financial auditor). Người học dịch nhầm thành 'người phát thanh' (nhầm với audio/broadcaster).",
+      "level": 1,
+      "encounters": 2,
+      "status": "learning"
+    },
+    {
+      "word": "executives",
+      "issue": "Các giám đốc điều hành, cán bộ quản lý cấp cao. Người học dịch nhầm thành 'thực thi' (nhầm với execute).",
+      "level": 1,
+      "encounters": 1,
+      "status": "learning"
+    },
+    {
+      "word": "travel invoices",
+      "issue": "Các hóa đơn công tác. Người học dịch nhầm thành 'toàn bộ lịch'.",
+      "level": 1,
+      "encounters": 1,
+      "status": "learning"
+    }
+  ],
+  "grammar_queue": [
+    {
+      "topic": "TRAP-08: During + Noun vs While/Although/Because + S+V",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "TRAP-07: be committed to / look forward to + V-ing",
+      "status": "mastered",
+      "last_tested": "2026-09-16"
+    },
+    {
+      "topic": "Participle Clauses (V-ing vs V-ed)",
+      "status": "mastered",
+      "last_tested": "2026-09-16"
+    },
+    {
+      "topic": "postpone + V-ing",
+      "status": "mastered"
+    },
+    {
+      "topic": "enable + O + to-V",
+      "status": "mastered"
+    },
+    {
+      "topic": "Modal Passive (must be followed)",
+      "status": "mastered"
+    },
+    {
+      "topic": "Once + V(present)",
+      "status": "mastered"
+    },
+    {
+      "topic": "Although + S+V vs Despite + Noun",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "be + kindly + requested (Adverb Position)",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "promise to + bare V",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "Relative Pronouns (who vs whose)",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "raise (+ O) vs rise (no O)",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "Possessive whose (+ Noun)",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "Because of (+ Noun Phrase)",
+      "status": "mastered",
+      "last_tested": "2026-09-17"
+    },
+    {
+      "topic": "Relative Pronoun which (for objects)",
+      "status": "mastered",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "aim to + bare V",
+      "status": "mastered",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "Intransitive rise (no object) mastered",
+      "status": "mastered",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "opportunity to-V / in order to-V",
+      "status": "mastered",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "TRAP-10: whose + Noun vs who + V",
+      "status": "mastered",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "TRAP-11: -ify (v) vs -ic (adj)",
+      "status": "failed_retest",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "to + bare V (to determine)",
+      "status": "mastered",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "TRAP-12: Should + S + V bare (Conditional Inversion)",
+      "status": "needs_retest",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "TRAP-13: Comparative Intensive Adverbs (significantly/much/far)",
+      "status": "needs_retest",
+      "last_tested": "2026-09-21"
+    },
+    {
+      "topic": "TRAP-14: Reduced Relative Clauses (V-ing active)",
+      "status": "needs_retest",
+      "last_tested": "2026-09-21"
+    }
+  ]
+}
