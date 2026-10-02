@@ -119,6 +119,18 @@ def cmd_status(args):
     print(f" • Kho 600 từ vựng cốt lõi TOEIC: {words_600_total} từ (Level 1: {lvl1}, Level 2: {lvl2}, Level 3: {lvl3})")
     print(f" • Sổ tay từ vựng tích lũy riêng: {my_vocab_count} từ/cụm")
 
+    # Thống kê kho Oxford 5000
+    oxford_file = VOCAB_DIR / "oxford_5000.json"
+    if oxford_file.exists():
+        try:
+            ox_data = json.loads(oxford_file.read_text(encoding="utf-8"))
+            meta = ox_data.get("metadata", {})
+            w_count = meta.get("total_words", 0)
+            p_count = meta.get("total_phrases", 0)
+            print(f" • Hệ sinh thái Oxford 5000™:    {w_count} từ + {p_count} cụm từ (Chuẩn CEFR A1-C1)")
+        except Exception:
+            pass
+
     # Thống kê ngữ pháp
     grammar_count = 0
     if MY_GRAMMAR_FILE.exists():

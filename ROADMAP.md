@@ -1,7 +1,24 @@
-# 🎯 LỘ TRÌNH ÔN THI TOEIC READING BỨT PHÁ (MỤC TIÊU 350 - 420+ READING)
+# 🎯 LỘ TRÌNH ÔN THI TOEIC READING BỨT PHÁ (MỤC TIÊU 380 - 420+ READING / TỔNG 750+)
 
-> **Mục tiêu tối thượng của bài thi Reading:** 
-> Không phải dịch từng từ một, mà là **Nhận diện nhanh cấu trúc câu** (Part 5, 6) và **Định vị từ khóa Paraphrase chính xác** (Part 7) trong 75 phút.
+> **ĐÍCH TỚI TỐI THƯỢNG CỦA CHƯƠNG TRÌNH AGENT (THE ULTIMATE DESTINATION):**  
+> 1. **Điểm số mục tiêu:** TOEIC Reading $\ge 380 - 420+$ (Tổng điểm $\ge 750 - 800+$).  
+> 2. **Vốn từ vựng:** Làm chủ trọn bộ **600 từ vựng cốt lõi TOEIC** + **Kho 5.946 từ & 750 cụm từ Oxford 5000** (tập trung 2.473 từ B1-B2 cốt lõi cho công sở, thương mại, điều hành).  
+> 3. **Phản xạ tốc độ chuẩn ETS:**  
+>    - **Part 5 (30 câu):** 10 - 12 phút (15-20s/câu, độ chính xác $\ge 26/30$).  
+>    - **Part 6 (16 câu):** 8 - 9 phút (30s/câu, độ chính xác $\ge 13/16$).  
+>    - **Part 7 (54 câu):** 50 - 53 phút (~50-55s/câu, đọc hiểu định vị thông tin không cần dịch word-by-word).  
+> 4. **Trình độ thực tế:** Đạt chuẩn **CEFR B2 (Vantage/Upper-Intermediate)** - Đọc hiểu mượt mà toàn bộ email, hợp đồng, báo cáo tài chính quốc tế.
+
+---
+
+## 🗺️ BẢN ĐỒ 4 CỘT MỐC (4 MILESTONES) & TIẾN ĐỘ HIỆN TẠI
+
+```mermaid
+graph TD
+    M1["🚩 CỘT MỐC 1: NỀN TẢNG PART 5<br>(12 Chủ điểm Ngữ pháp & 14 Bẫy ETS)<br>✅ ĐÃ HOÀN THÀNH 100%"] --> M2["🚩 CỘT MỐC 2: TĂNG TỐC PART 6 & ĐOẠN ĐƠN PART 7<br>+ TÍCH HỢP OXFORD 5000 THEO CHỦ ĐỀ<br>🔄 ĐANG THỰC HIỆN"]
+    M2 --> M3["🚩 CỘT MỐC 3: BẬC THẦY ĐA ĐOẠN PART 7<br>(Double & Triple Passages & Paraphrase B2/C1)<br>⏳ CHUẨN BỊ"]
+    M3 --> M4["🏆 CỘT MỐC 4: TỔNG DUYỆT ĐỀ FULL 75 PHÚT<br>& CHẠM ĐÍCH 750 - 800+ TOEIC<br>🎯 ĐÍCH ĐẾN"]
+```
 
 ---
 
@@ -17,27 +34,10 @@
 
 ---
 
-## 🗺️ LỘ TRÌNH 4 GIAI ĐOẠN (ROADMAP)
+### GIAI ĐOẠN 1: NỀN TẢNG PART 5 (MỤC TIÊU: ĐÚNG $\ge 24/30$ CÂU, 10 PHÚT) - [HOÀN THÀNH 100%]
+*Đã hoàn tất toàn bộ lý thuyết 12 chủ điểm & 14 bẫy điểm cá nhân (TRAP-01 đến TRAP-14).*
 
-```mermaid
-graph LR
-    A["Phase 1: Nền tảng Part 5<br>(30s/câu & 12 Chủ điểm)"] --> B["Phase 2: Tăng tốc Part 6 &<br>Single Passage Part 7"]
-    B --> C["Phase 3: Bậc thầy Part 7<br>(Double/Triple & Paraphrase)"]
-    C --> D["Phase 4: Tổng duyệt đề 75p<br>& Khắc phục điểm mù"]
-```
-
----
-
-### GIAI ĐOẠN 1: NỀN TẢNG PART 5 (MỤC TIÊU: ĐÚNG $\ge 24/30$ CÂU, 10 PHÚT)
-*Thời lượng gợi ý: 2 - 3 tuần*
-
-#### 1. Nguyên tắc sống còn khi làm Part 5:
-* **Nhìn 4 đáp án trước khi đọc đề:**
-  * Nếu 4 đáp án có **cùng gốc từ** (vd: *decide, decision, decisive, decisively*) $\rightarrow$ **Dạng Từ Loại (Word Form)**: Chỉ cần nhìn vị trí trống trước/sau, không cần dịch nghĩa cả câu!
-  * Nếu 4 đáp án là **4 từ vựng khác nhau** $\rightarrow$ **Dạng Từ Vựng/Cụm từ (Vocab/Collocation)**: Bắt buộc dịch nghĩa và xét ngữ cảnh văn phòng.
-  * Nếu 4 đáp án là **các dạng chia của động từ** $\rightarrow$ Xét thứ tự: **Thì (Tense) $\rightarrow$ Thể (Voice: Chủ/Bị động) $\rightarrow$ Sự hòa hợp Chủ - Vị (Subject-Verb Agreement)**.
-
-#### 2. Checklist 12 Chủ điểm ngữ pháp bắt buộc phải nắm:
+#### Checklist 12 Chủ điểm ngữ pháp cốt lõi:
 - [x] 1. Vị trí Danh từ, Động từ, Tính từ, Trạng từ (Word Forms). *(Đã xong)*
 - [x] 2. Đại từ nhân xưng, Đại từ phản thân (*myself/themselves*), Tính từ sở hữu. *(Đã xong)*
 - [x] 3. Sự hòa hợp giữa Chủ ngữ và Động từ (Subject-Verb Agreement). *(Đã xong)*
